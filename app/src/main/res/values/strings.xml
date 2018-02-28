@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppCCP</string>
+    <string name="texto_mensagem">Digite aqui seu texto ...</string>
+    <string name="texto_botao">Enviar</string>
+</resources>
